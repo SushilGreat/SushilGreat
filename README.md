@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SushilGreat alt id of [Sushil](github.com/sushil-great)
+- 👋 Hi, I’m @SushilGreat
 - 👀 I’m interested in bot making
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing(still learning)
